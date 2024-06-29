@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294690217987",
+    "project_id": "diet-recommendation-fea46",
+    "storage_bucket": "diet-recommendation-fea46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294690217987:android:e15177f43ab0929bcdee36",
+        "android_client_info": {
+          "package_name": "com.example.diet_recomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFT794WLenZuRF9h7t87rDR1kF4qSKWY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
