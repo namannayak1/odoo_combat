@@ -1,0 +1,822 @@
+
+
+{
+    "Vegetarian": {
+      "Weight Loss": [
+        {
+          "name": "Chickpea Salad",
+          "image": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "1 can (15 oz) chickpeas, drained and rinsed",
+            "1 cucumber, diced",
+            "1 red bell pepper, diced",
+            "1 small red onion, finely chopped",
+            "1/4 cup parsley, chopped",
+            "1/4 cup olive oil",
+            "2 tbsp lemon juice",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "In a large bowl, combine chickpeas, cucumber, bell pepper, red onion, and parsley.",
+            "In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.",
+            "Pour the dressing over the salad and toss to coat.",
+            "Serve immediately or refrigerate for up to 2 days."
+          ],
+          "nutritional_information": {
+            "calories": 210,
+            "fat": 12,
+            "protein": 6
+          }
+        },
+        {
+          "name": "Spinach and Feta Stuffed Peppers",
+          "image": "https://images.unsplash.com/photo-1510629954389-c1e0da47d414?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "4 bell peppers, halved and seeded",
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "10 oz spinach, chopped",
+            "1 cup cooked quinoa",
+            "1/2 cup crumbled feta cheese",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Preheat oven to 375°F (190°C).",
+            "Place bell pepper halves on a baking sheet.",
+            "Heat olive oil in a pan over medium heat.",
+            "Add onion and garlic, cook until softened.",
+            "Stir in spinach, cook until wilted.",
+            "Add quinoa and feta cheese, mix well.",
+            "Season with salt and pepper.",
+            "Fill bell pepper halves with the mixture.",
+            "Bake for 25-30 minutes, until peppers are tender.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 200,
+            "fat": 10,
+            "protein": 7
+          }
+        },
+        {
+          "name": "Zucchini Noodles with Pesto",
+          "image": "https://plus.unsplash.com/premium_photo-1664392002995-4ee10b7f91e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "4 zucchinis, spiralized",
+            "1 cup fresh basil leaves",
+            "1/4 cup pine nuts",
+            "2 cloves garlic",
+            "1/2 cup olive oil",
+            "Salt and pepper to taste",
+            "1/4 cup grated Parmesan cheese"
+          ],
+          "recipe": [
+            "In a food processor, combine basil, pine nuts, and garlic.",
+            "Slowly add olive oil while processing until smooth.",
+            "Season with salt and pepper.",
+            "Toss zucchini noodles with pesto sauce.",
+            "Sprinkle with Parmesan cheese before serving."
+          ],
+          "nutritional_information": {
+            "calories": 150,
+            "fat": 12,
+            "protein": 4
+          }
+        },
+        {
+          "name": "Cauliflower Rice",
+          "image": "https://images.unsplash.com/photo-1509401867-6a8e89483fdb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "1 head cauliflower, grated",
+            "2 tbsp olive oil",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "Salt and pepper to taste",
+            "1/4 cup chopped cilantro"
+          ],
+          "recipe": [
+            "Heat olive oil in a large pan over medium heat.",
+            "Add onion and garlic, cook until softened.",
+            "Stir in grated cauliflower, cook until tender.",
+            "Season with salt and pepper.",
+            "Garnish with chopped cilantro before serving."
+          ],
+          "nutritional_information": {
+            "calories": 100,
+            "fat": 7,
+            "protein": 2
+          }
+        },
+        {
+          "name": "Stuffed Portobello Mushrooms",
+          "image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "4 large Portobello mushrooms, stems removed",
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "2 cups spinach, chopped",
+            "1/2 cup cherry tomatoes, halved",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Preheat oven to 375°F (190°C).",
+            "Brush mushrooms with olive oil and place on a baking sheet.",
+            "Heat olive oil in a pan over medium heat.",
+            "Add onion and garlic, cook until softened.",
+            "Stir in spinach and cherry tomatoes, cook until spinach is wilted.",
+            "Season with salt and pepper.",
+            "Stuff mushrooms with the mixture.",
+            "Sprinkle with Parmesan cheese.",
+            "Bake for 20 minutes, until mushrooms are tender.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 120,
+            "fat": 8,
+            "protein": 5
+          }
+        }
+      ],
+      "Muscle Gain": [
+        {
+          "name": "Vegetarian Chili",
+          "image": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 bell pepper, chopped",
+            "1 zucchini, chopped",
+            "1 cup corn kernels",
+            "1 can black beans, drained and rinsed",
+            "1 can kidney beans, drained and rinsed",
+            "2 cans diced tomatoes",
+            "2 tbsp chili powder",
+            "1 tsp cumin",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Heat olive oil in a large pot over medium heat.",
+            "Add onion and garlic, cook until softened.",
+            "Add bell pepper and zucchini, cook until tender.",
+            "Stir in corn, black beans, kidney beans, and tomatoes.",
+            "Add chili powder, cumin, salt, and pepper.",
+            "Bring to a boil, then reduce heat and simmer for 30 minutes.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 250,
+            "fat": 8,
+            "protein": 12
+          }
+        },
+        {
+          "name": "Vegetarian Stir-Fry",
+          "image": "https://images.unsplash.com/photo-1510629954389-c1e0da47d414?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "2 tbsp olive oil",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "1 red bell pepper, sliced",
+            "1 yellow bell pepper, sliced",
+            "1 zucchini, sliced",
+            "1 cup broccoli florets",
+            "2 tbsp soy sauce",
+            "1 tsp sesame oil",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Heat olive oil in a large pan over medium heat.",
+            "Add onion and garlic, cook until fragrant.",
+            "Add bell peppers, zucchini, and broccoli, stir-fry until tender.",
+            "Stir in soy sauce and sesame oil.",
+            "Season with salt and pepper.",
+            "Serve over rice or noodles."
+          ],
+          "nutritional_information": {
+            "calories": 180,
+            "fat": 10,
+            "protein": 5
+          }
+        },
+        {
+          "name": "Quinoa Salad",
+          "image": "https://plus.unsplash.com/premium_photo-1664392002995-4ee10b7f91e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "1 cup quinoa, cooked",
+            "1 cucumber, diced",
+            "1 red bell pepper, diced",
+            "1/4 cup red onion, finely chopped",
+            "1/4 cup parsley, chopped",
+            "1/4 cup olive oil",
+            "2 tbsp lemon juice",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "In a large bowl, combine quinoa, cucumber, bell pepper, red onion, and parsley.",
+            "In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.",
+            "Pour the dressing over the salad and toss to coat.",
+            "Serve immediately or refrigerate for up to 2 days."
+          ],
+          "nutritional_information": {
+            "calories": 220,
+            "fat": 12,
+            "protein": 8
+          }
+        },
+        {
+          "name": "Lentil Soup",
+          "image": "https://images.unsplash.com/photo-1509401867-6a8e89483fdb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "2 carrots, diced",
+            "2 celery stalks, diced",
+            "1 cup dried lentils",
+            "1 can diced tomatoes",
+            "4 cups vegetable broth",
+            "1 tsp cumin",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Heat olive oil in a large pot over medium heat.",
+            "Add onion and garlic, cook until softened.",
+            "Add carrots and celery, cook until tender.",
+            "Stir in lentils, tomatoes, and vegetable broth.",
+            "Add cumin, salt, and pepper.",
+            "Bring to a boil, then reduce heat and simmer for 30 minutes.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 200,
+            "fat": 6,
+            "protein": 10
+          }
+        },
+        {
+          "name": "Tofu Stir-Fry",
+          "image": "https://plus.unsplash.com/premium_photo-1692309186600-03bb12fd3adb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "1 block firm tofu, cubed",
+            "2 tbsp olive oil",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "1 red bell pepper, sliced",
+            "1 zucchini, sliced",
+            "1 cup broccoli florets",
+            "2 tbsp soy sauce",
+            "1 tsp sesame oil",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Heat olive oil in a large pan over medium heat.",
+            "Add tofu, cook until golden brown on all sides.",
+            "Remove tofu from pan and set aside.",
+            "In the same pan, add onion and garlic, cook until fragrant.",
+            "Add bell pepper, zucchini, and broccoli, stir-fry until tender.",
+            "Stir in soy sauce and sesame oil.",
+            "Add tofu back to the pan, toss to coat.",
+            "Season with salt and pepper.",
+            "Serve hot over rice or noodles."
+          ],
+          "nutritional_information": {
+            "calories": 250,
+            "fat": 14,
+            "protein": 14
+          }
+        }
+      ],
+          "Improve Stamina": [
+        {
+          "name": "Quinoa and Black Bean Salad",
+          "image": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "1 cup quinoa, cooked",
+            "1 can black beans, drained and rinsed",
+            "1 red bell pepper, diced",
+            "1 avocado, diced",
+            "1/4 cup cilantro, chopped",
+            "2 tbsp olive oil",
+            "2 tbsp lime juice",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "In a large bowl, combine quinoa, black beans, bell pepper, avocado, and cilantro.",
+            "In a small bowl, whisk together olive oil, lime juice, salt, and pepper.",
+            "Pour the dressing over the salad and toss to coat.",
+            "Serve immediately or refrigerate for up to 2 days."
+          ],
+          "nutritional_information": {
+            "calories": 250,
+            "fat": 12,
+            "protein": 8
+          }
+        },
+        {
+          "name": "Sweet Potato and Black Bean Tacos",
+          "image": "https://images.unsplash.com/photo-1510629954389-c1e0da47d414?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "2 large sweet potatoes, peeled and diced",
+            "2 tbsp olive oil",
+            "1 tsp cumin",
+            "1 tsp chili powder",
+            "1 can black beans, drained and rinsed",
+            "8 small corn tortillas",
+            "1/4 cup red onion, chopped",
+            "1/4 cup cilantro, chopped",
+            "1 avocado, sliced",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Preheat oven to 400°F (200°C).",
+            "Toss sweet potatoes with olive oil, cumin, chili powder, salt, and pepper.",
+            "Spread sweet potatoes on a baking sheet and roast for 25-30 minutes, until tender.",
+            "Warm tortillas in a dry skillet over medium heat.",
+            "Fill tortillas with sweet potatoes, black beans, red onion, cilantro, and avocado.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 280,
+            "fat": 10,
+            "protein": 7
+          }
+        },
+        {
+          "name": "Lentil and Veggie Stew",
+          "image": "https://plus.unsplash.com/premium_photo-1664392002995-4ee10b7f91e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "2 carrots, diced",
+            "2 celery stalks, diced",
+            "1 cup dried lentils",
+            "1 can diced tomatoes",
+            "4 cups vegetable broth",
+            "1 tsp thyme",
+            "Salt and pepper to taste",
+            "2 cups spinach, chopped"
+          ],
+          "recipe": [
+            "Heat olive oil in a large pot over medium heat.",
+            "Add onion and garlic, cook until softened.",
+            "Add carrots and celery, cook until tender.",
+            "Stir in lentils, tomatoes, and vegetable broth.",
+            "Add thyme, salt, and pepper.",
+            "Bring to a boil, then reduce heat and simmer for 30 minutes.",
+            "Stir in spinach and cook until wilted.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 220,
+            "fat": 7,
+            "protein": 11
+          }
+        },
+        {
+          "name": "Vegetable Stir-Fry",
+          "image": "https://images.unsplash.com/photo-1509401867-6a8e89483fdb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "2 tbsp olive oil",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "1 red bell pepper, sliced",
+            "1 yellow bell pepper, sliced",
+            "1 zucchini, sliced",
+            "1 cup broccoli florets",
+            "2 tbsp soy sauce",
+            "1 tsp sesame oil",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Heat olive oil in a large pan over medium heat.",
+            "Add onion and garlic, cook until fragrant.",
+            "Add bell peppers, zucchini, and broccoli, stir-fry until tender.",
+            "Stir in soy sauce and sesame oil.",
+            "Season with salt and pepper.",
+            "Serve over rice or noodles."
+          ],
+          "nutritional_information": {
+            "calories": 180,
+            "fat": 10,
+            "protein": 5
+          }
+        },
+        {
+          "name": "Stuffed Bell Peppers",
+          "image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "4 bell peppers, halved and seeded",
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 zucchini, diced",
+            "1 cup cooked quinoa",
+            "1/2 cup corn kernels",
+            "1/2 cup black beans, drained and rinsed",
+            "1/4 cup cilantro, chopped",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Preheat oven to 375°F (190°C).",
+            "Place bell pepper halves on a baking sheet.",
+            "Heat olive oil in a pan over medium heat.",
+            "Add onion and garlic, cook until softened.",
+            "Stir in zucchini, quinoa, corn, black beans, and cilantro.",
+            "Season with salt and pepper.",
+            "Fill bell pepper halves with the mixture.",
+            "Bake for 25-30 minutes, until peppers are tender.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 220,
+            "fat": 9,
+            "protein": 6
+          }
+        }
+      ],
+      "Improve Flexibility": [
+        {
+          "name": "Mushroom and Spinach Pasta",
+          "image": "https://plus.unsplash.com/premium_photo-1692309186600-03bb12fd3adb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "8 oz whole wheat pasta",
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "2 cups mushrooms, sliced",
+            "4 cups spinach, chopped",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Cook pasta according to package instructions.",
+            "Heat olive oil in a large pan over medium heat.",
+            "Add onion and garlic, cook until softened.",
+            "Add mushrooms, cook until tender.",
+            "Stir in spinach and cook until wilted.",
+            "Drain pasta and add to the pan.",
+            "Toss to combine and heat through.",
+            "Season with salt, pepper, and Parmesan cheese.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 300,
+            "fat": 10,
+            "protein": 12
+          }
+        },
+        {
+          "name": "Roasted Vegetable Bowl",
+          "image": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "1 sweet potato, diced",
+            "1 red bell pepper, sliced",
+            "1 zucchini, sliced",
+            "1 cup broccoli florets",
+            "2 tbsp olive oil",
+            "1 tsp cumin",
+            "1 tsp paprika",
+            "Salt and pepper to taste",
+            "1/4 cup tahini",
+            "2 tbsp lemon juice",
+            "Water as needed"
+          ],
+          "recipe": [
+            "Preheat oven to 400°F (200°C).",
+            "Toss sweet potato, bell pepper, zucchini, and broccoli with olive oil, cumin, paprika, salt, and pepper.",
+            "Spread vegetables on a baking sheet and roast for 20-25 minutes, until tender and slightly charred.",
+            "In a small bowl, whisk together tahini, lemon juice, and enough water to make a drizzling consistency.",
+            "Serve roasted vegetables drizzled with tahini sauce.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 280,
+            "fat": 14,
+            "protein": 8
+          }
+        },
+        {
+          "name": "Caprese Salad",
+          "image": "https://plus.unsplash.com/premium_photo-1664392002995-4ee10b7f91e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "2 cups cherry tomatoes, halved",
+            "1 cup fresh mozzarella, diced",
+            "1/4 cup fresh basil leaves, chopped",
+            "2 tbsp balsamic vinegar",
+            "2 tbsp olive oil",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "In a large bowl, combine cherry tomatoes, mozzarella, and basil.",
+            "Drizzle with balsamic vinegar and olive oil.",
+            "Season with salt and pepper.",
+            "Toss to combine.",
+            "Serve immediately."
+          ],
+          "nutritional_information": {
+            "calories": 180,
+            "fat": 12,
+            "protein": 8
+          }
+        },
+        {
+          "name": "Spinach and Chickpea Curry",
+          "image": "https://images.unsplash.com/photo-1509401867-6a8e89483fdb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 tsp ginger, grated",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/4 tsp cayenne pepper",
+            "1 can chickpeas, drained and rinsed",
+            "1 can diced tomatoes",
+            "1 cup coconut milk",
+            "4 cups spinach",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Heat olive oil in a large pot over medium heat.",
+            "Add onion, garlic, and ginger, cook until softened.",
+            "Stir in cumin, coriander, turmeric, and cayenne pepper, cook until fragrant.",
+            "Add chickpeas, tomatoes, and coconut milk.",
+            "Simmer for 15 minutes, stirring occasionally.",
+            "Stir in spinach and cook until wilted.",
+            "Season with salt and pepper.",
+            "Serve hot over rice."
+          ],
+          "nutritional_information": {
+            "calories": 280,
+            "fat": 14,
+            "protein": 9
+          }
+        }
+      ],
+     "General Fitness": [
+        {
+          "name": "Quinoa Salad",
+          "image": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "1 cup quinoa",
+            "1 cucumber, diced",
+            "1 bell pepper, diced",
+            "1/2 cup cherry tomatoes, halved",
+            "1/4 cup red onion, finely chopped",
+            "1/4 cup fresh parsley, chopped",
+            "1/4 cup olive oil",
+            "2 tbsp lemon juice",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Rinse quinoa under cold water.",
+            "In a medium pot, bring 2 cups of water to a boil. Add quinoa, reduce heat to low, cover, and simmer for 15-20 minutes until water is absorbed and quinoa is tender.",
+            "In a large bowl, combine cooked quinoa, cucumber, bell pepper, cherry tomatoes, red onion, and parsley.",
+            "In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.",
+            "Pour dressing over salad and toss to combine.",
+            "Serve chilled."
+          ],
+          "nutritional_information": {
+            "calories": 280,
+            "fat": 12,
+            "protein": 8
+          }
+        },
+        {
+          "name": "Sweet Potato and Black Bean Tacos",
+          "image": "https://images.unsplash.com/photo-1510629954389-c1e0da47d414?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "2 medium sweet potatoes, diced",
+            "1 can black beans, drained and rinsed",
+            "1 tsp cumin",
+            "1 tsp chili powder",
+            "1/2 tsp paprika",
+            "Salt and pepper to taste",
+            "8 small corn tortillas",
+            "1 avocado, sliced",
+            "1/4 cup salsa",
+            "1/4 cup cilantro, chopped"
+          ],
+          "recipe": [
+            "Preheat oven to 400°F (200°C).",
+            "Toss sweet potatoes with olive oil, cumin, chili powder, paprika, salt, and pepper.",
+            "Spread sweet potatoes on a baking sheet and roast for 20-25 minutes, until tender.",
+            "In a small saucepan, heat black beans with a splash of water until warm.",
+            "Warm corn tortillas in a dry skillet or oven.",
+            "Assemble tacos with sweet potatoes, black beans, avocado, salsa, and cilantro.",
+            "Serve warm."
+          ],
+          "nutritional_information": {
+            "calories": 320,
+            "fat": 10,
+            "protein": 10
+          }
+        },
+        {
+          "name": "Greek Chickpea Salad",
+          "image": "https://plus.unsplash.com/premium_photo-1664392002995-4ee10b7f91e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2hpY2twZWElMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+          "ingredients": [
+            "1 can chickpeas, drained and rinsed",
+            "1 cucumber, diced",
+            "1 bell pepper, diced",
+            "1/4 cup red onion, finely chopped",
+            "1/4 cup Kalamata olives, sliced",
+            "1/4 cup feta cheese, crumbled",
+            "2 tbsp olive oil",
+            "2 tbsp red wine vinegar",
+            "1 tbsp fresh dill, chopped",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "In a large bowl, combine chickpeas, cucumber, bell pepper, red onion, olives, and feta cheese.",
+            "In a small bowl, whisk together olive oil, red wine vinegar, dill, salt, and pepper.",
+            "Pour dressing over salad and toss to combine.",
+            "Serve chilled."
+          ],
+          "nutritional_information": {
+            "calories": 250,
+            "fat": 10,
+            "protein": 9
+          }
+        },
+        {
+          "name": "Stuffed Bell Peppers",
+          "image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "4 bell peppers, halved and seeded",
+            "1 cup quinoa, cooked",
+            "1 can black beans, drained and rinsed",
+            "1 cup corn kernels",
+            "1 cup salsa",
+            "1/2 cup shredded cheddar cheese",
+            "1/4 cup fresh cilantro, chopped",
+            "1 tsp cumin",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Preheat oven to 375°F (190°C).",
+            "In a large bowl, combine cooked quinoa, black beans, corn, salsa, cheese, cilantro, cumin, salt, and pepper.",
+            "Fill each bell pepper half with quinoa mixture.",
+            "Place stuffed peppers in a baking dish.",
+            "Cover with foil and bake for 30 minutes.",
+            "Remove foil and bake for an additional 10 minutes, until peppers are tender and filling is heated through.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 280,
+            "fat": 8,
+            "protein": 10
+          }
+        },
+        {
+          "name": "Avocado and Chickpea Wrap",
+          "image": "https://plus.unsplash.com/premium_photo-1692309186600-03bb12fd3adb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "1 ripe avocado, mashed",
+            "1 can chickpeas, drained and mashed",
+            "1/4 cup red onion, finely chopped",
+            "1/4 cup cucumber, diced",
+            "1/4 cup fresh cilantro, chopped",
+            "2 tbsp lime juice",
+            "1/2 tsp cumin",
+            "Salt and pepper to taste",
+            "4 whole wheat tortillas"
+          ],
+          "recipe": [
+            "In a bowl, combine mashed avocado, mashed chickpeas, red onion, cucumber, cilantro, lime juice, cumin, salt, and pepper.",
+            "Spread avocado-chickpea mixture evenly over tortillas.",
+            "Roll up tortillas tightly.",
+            "Slice wraps in half.",
+            "Serve chilled or at room temperature."
+          ],
+          "nutritional_information": {
+            "calories": 260,
+            "fat": 10,
+            "protein": 9
+          }
+        }
+      ],
+   "Improve Mental Health": [
+        {
+          "name": "Spinach and Mushroom Quiche",
+          "image": "https://images.unsplash.com/photo-1509401867-6a8e89483fdb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "1 pie crust",
+            "2 cups spinach, chopped",
+            "1 cup mushrooms, sliced",
+            "1/2 cup feta cheese, crumbled",
+            "4 eggs",
+            "1 cup milk",
+            "1/2 tsp garlic powder",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "Preheat oven to 375°F (190°C).",
+            "In a skillet, sauté spinach and mushrooms until tender.",
+            "In a bowl, whisk together eggs, milk, garlic powder, salt, and pepper.",
+            "Place pie crust in a pie dish.",
+            "Spread spinach, mushrooms, and feta cheese evenly over pie crust.",
+            "Pour egg mixture over spinach mixture.",
+            "Bake for 35-40 minutes, until quiche is set and golden brown.",
+            "Let cool slightly before serving."
+          ],
+          "nutritional_information": {
+            "calories": 280,
+            "fat": 14,
+            "protein": 12
+          }
+        },
+        {
+          "name": "Blueberry Almond Smoothie Bowl",
+          "image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "1 cup frozen blueberries",
+            "1 banana, sliced and frozen",
+            "1/2 cup almond milk",
+            "1/4 cup Greek yogurt",
+            "1 tbsp almond butter",
+            "1 tbsp chia seeds",
+            "1 tbsp honey",
+            "Toppings: sliced almonds, fresh blueberries, granola"
+          ],
+          "recipe": [
+            "In a blender, combine frozen blueberries, banana, almond milk, Greek yogurt, almond butter, chia seeds, and honey.",
+            "Blend until smooth and creamy.",
+            "Pour smoothie into a bowl.",
+            "Top with sliced almonds, fresh blueberries, and granola.",
+            "Serve immediately."
+          ],
+          "nutritional_information": {
+            "calories": 320,
+            "fat": 12,
+            "protein": 8
+          }
+        }
+      ],
+      "Boost Immunity": [
+        {
+          "name": "Turmeric Ginger Soup",
+          "image": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 tbsp fresh ginger, grated",
+            "1 tsp ground turmeric",
+            "4 cups vegetable broth",
+            "1 cup coconut milk",
+            "Juice of 1 lemon",
+            "Salt and pepper to taste"
+          ],
+          "recipe": [
+            "In a large pot, heat olive oil over medium heat.",
+            "Add chopped onion and cook until translucent.",
+            "Add minced garlic, grated ginger, and ground turmeric. Cook for 1-2 minutes until fragrant.",
+            "Add vegetable broth and bring to a boil. Reduce heat and simmer for 15-20 minutes.",
+            "Stir in coconut milk and lemon juice.",
+            "Season with salt and pepper to taste.",
+            "Serve hot."
+          ],
+          "nutritional_information": {
+            "calories": 240,
+            "fat": 14,
+            "protein": 4
+          }
+        },
+        {
+          "name": "Citrus Immunity Smoothie",
+          "image": "https://plus.unsplash.com/premium_photo-1692309186600-03bb12fd3adb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fENoaWNrcGVhJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D",
+          "ingredients": [
+            "1 orange, peeled and segmented",
+            "1/2 grapefruit, peeled and segmented",
+            "1/2 lemon, peeled and segmented",
+            "1/2 lime, peeled and segmented",
+            "1 cup spinach",
+            "1/2 cup Greek yogurt",
+            "1 tbsp honey",
+            "1/2 cup water or coconut water",
+            "Ice cubes"
+          ],
+          "recipe": [
+            "In a blender, combine orange segments, grapefruit segments, lemon segments, lime segments, spinach, Greek yogurt, honey, and water or coconut water.",
+            "Blend until smooth.",
+            "Add ice cubes and blend until desired consistency is reached.",
+            "Pour into glasses and serve immediately."
+          ],
+          "nutritional_information": {
+            "calories": 200,
+            "fat": 2,
+            "protein": 6
+          }
+        }
+      ]
+    }
+  
+    
+  }

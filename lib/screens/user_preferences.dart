@@ -31,6 +31,8 @@ class _UserPreferencesState extends State<UserPreferences> {
     String ? allergies;
     String ? age;
   File? pickedimage;
+
+  bool issaving = false;
   @override
   Widget build(BuildContext context) {
 
@@ -80,6 +82,11 @@ class _UserPreferencesState extends State<UserPreferences> {
     void save() async
     {
 
+
+          setState(() {
+            
+            issaving = true;
+          });
           if(pickedimage==null)
           {
                 ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('Please provide your picture')));
@@ -93,15 +100,19 @@ class _UserPreferencesState extends State<UserPreferences> {
               return;
           }
 
+          final user =  FirebaseAuth.instance.currentUser;
+
            final storageref =   FirebaseStorage.instance
             .ref()
             .child('user_images')
-            .child('${FirebaseAuth.instance.currentUser!.uid}.jpg');
+            .child('${user!.uid}.jpg');
 
         await storageref.putFile(pickedimage!);
 
         final imageurl = await storageref.getDownloadURL();
-          await FirebaseFirestore.instance.collection('users').doc(FirebaseAuth.instance.currentUser!.uid).set({
+
+        // print('imageurl');
+          await FirebaseFirestore.instance.collection('users').doc(user.uid).set({
 
                     'username': username,
                     'age' : age,
@@ -111,9 +122,18 @@ class _UserPreferencesState extends State<UserPreferences> {
                     'deitary_pref': dietrypreferences,
                     'allergies': allergies,
                     'health_goals' : healthgoal,
-                    'image': imageurl 
+                    'image' : imageurl
           });
 
+
+          setState(() {
+            issaving = false;
+          });
+
+
+           Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) {
+                        return const Tabs();
+                  },));
 
     }
 
@@ -439,9 +459,7 @@ class _UserPreferencesState extends State<UserPreferences> {
                 onPressed: () {
                   save();
 
-                  Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) {
-                        return const Tabs();
-                  },));
+                 
                 },
                 style: ButtonStyle(
                   backgroundColor: WidgetStateProperty.all(buttoncolor),
@@ -455,7 +473,7 @@ class _UserPreferencesState extends State<UserPreferences> {
                   ),
                   elevation: WidgetStateProperty.all<double>(2),
                 ),
-                child: const Text(
+                child: issaving? const Center(child: CircularProgressIndicator(),): const Text(
                   'Save Changes',
                   style: TextStyle(fontSize: 18, color: Colors.white),
                 ),
